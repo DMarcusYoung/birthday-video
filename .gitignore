@@ -33,3 +33,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+gcskey.json
+previous.tsx
+aws_cw.tsx
